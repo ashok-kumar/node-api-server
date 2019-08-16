@@ -1,14 +1,14 @@
-# RUN
+## RUN
 - `npm i`
 - `npm run start`
 
-### Create a new branch 
-git checkout -b branch-name
+#### List of APIs
+- `localhost:3000/`
+- `localhost:3000/cities`
 
-### List all branches 
-git branch -a
-
-### Switch to a branch 
-git checkout branch-name
-
+#### Basic gits
+- `git checkout -b branch-name` - Create a new branch 
+- `git branch -a` - List all branches 
+- `git checkout branch-name` - Switch to a branch 
+ 
  
